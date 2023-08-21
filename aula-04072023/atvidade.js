@@ -55,8 +55,8 @@ console.log(delta);
 //Faça um programa que retorna se uma determinada pessoa pode dirigir, baseado na sua idade (utilize operador ternário).
 
 
-let pessoa= 34;
+let pessoa= 16;
 let mensgem;
-let condicao4= pessoa >=18 || pessoa <=18;
+let condicao4= pessoa >=18 ;
 mensgem = condicao4 ?"pode digirir":"não pode dirigir";
 console.log(mensgem);
