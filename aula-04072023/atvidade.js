@@ -1,7 +1,7 @@
 //Escreva um programa que verique se um numero é par ou impar
 
 let num= 35;
-let condição;
+let condicao;
 let mensagem;
 
 condicao= (num % 2)== 0;
