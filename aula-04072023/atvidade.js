@@ -1,6 +1,6 @@
 //Escreva um programa que verique se um numero é par ou impar
 
-let num= 35;
+let num= 30;
 let condicao;
 let mensagem;
 
